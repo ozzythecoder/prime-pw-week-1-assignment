@@ -41,3 +41,7 @@ img {
 ul {
     font-family: 'Helvetica', sans-serif;
 }
+
+li {
+    padding-top: 5px;
+}

@@ -1,5 +1,16 @@
 /* Give your page a fun background color */
+body {
+    background-color: #FFC68A;
+}
 
+header {
+    background-color: lightblue;
+}
+
+footer {
+    background-color: #555580;
+    color: #FFFFFF;
+}
 /* Make the header and footer a different color from the background */
 
 /* Align the h1 containing your name in the center of the header*/

@@ -22,6 +22,15 @@ h1 {
 
 /* Make your p tag a different color and italic */
 
+header p {
+    color: forestgreen;
+    font-style: italic;
+}
+
 /* Put a border around your image */
+
+img {
+    border: 2px solid black;
+}
 
 /* Change the font-family of your list */

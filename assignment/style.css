@@ -7,11 +7,14 @@ body {
 
 header {
     background-color: lightblue;
+    padding: 10px 20px;
 }
 
 footer {
-    background-color: #555580;
+    background-color: red;
     color: #FFFFFF;
+    padding: 2px 20px;
+    margin: 5px 0;
 }
 
 /* Align the h1 containing your name in the center of the header*/
@@ -22,8 +25,8 @@ h1 {
 
 /* Make your p tag a different color and italic */
 
-header p {
-    color: forestgreen;
+p {
+    color: navy;
     font-style: italic;
 }
 
@@ -34,3 +37,7 @@ img {
 }
 
 /* Change the font-family of your list */
+
+ul {
+    font-family: 'Helvetica', sans-serif;
+}
